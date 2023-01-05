@@ -1,11 +1,11 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Meu nome é Janaina Adolfo da SIlva♉, 🐱tenho 29 anos🐶, Graduada em Sistemas de Informação e Mestra em Engenharia de Computação (FURG)👩‍💻.
+  Meu nome é Janaina Adolfo da SIlva, tenho 29 anos, Graduada em Sistemas de Informação e Mestra em Engenharia de Computação (FURG).
 </p>
 
 <p align="left">
-  🦄 Linguagens<br> 
+  🦄 Linguagens:<br> 
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
@@ -14,7 +14,7 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas<br>
+  💼 Ferramentas:<br>
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white">
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white">
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB">
@@ -26,10 +26,7 @@
 </p>
 
 <p align="left">
-  💌 Contato: ⤵️
-</p>
-
-<p align="left">
+  💌 Contato:<br>
 
   <img src="https://img.shields.io/badge/-janaina.adolfo.ds@gmail.com-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" />
 
