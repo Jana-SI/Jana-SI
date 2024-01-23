@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Meu nome é Janaina Adolfo da SIlva, tenho 29 anos, Graduada em Sistemas de Informação e Mestra em Engenharia de Computação (FURG).
+  Meu nome é Janaina Adolfo da SIlva, tenho 30 anos, Graduada em Sistemas de Informação e Mestre em Engenharia de Computação (FURG).
 </p>
 
 <p align="left">
@@ -25,6 +25,10 @@
   <img src="https://img.shields.io/badge/WordPress-006E93?style=flat-square&logo=wordpress&logoColor=white">
   <img src="https://img.shields.io/badge/Git-E34F26?style=flat-square&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white">
+</p>
+
+<p align>
+  🧪 Testes: Phpunit e Cypress;
 </p>
 
 <p align="left">
