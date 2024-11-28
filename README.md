@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Meu nome é Janaina Adolfo da SIlva, tenho 30 anos, Graduada em Sistemas de Informação e Mestre em Engenharia de Computação (FURG).
+  Meu nome é Janaina Adolfo da SIlva, tenho 31 anos, Graduada em Sistemas de Informação e Mestre em Engenharia de Computação (FURG).
 </p>
 
 <p align="left">
